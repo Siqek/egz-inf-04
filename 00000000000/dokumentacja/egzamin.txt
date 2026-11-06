@@ -1,0 +1,8 @@
+system operacyjny: Windows 11
+środowiska programistyczne:
+ - Visual Studio Code
+ - Visual Studio 2022
+języki programowania:
+ - C++
+ - JavaScript
+ 
